@@ -1,4 +1,4 @@
-## Updates for Youtube channel videos display Wordpress plugin
+## Youtube channel videos display Wordpress plugin
 ### How to use:
 - upload plugin folder
 - Active plugin
