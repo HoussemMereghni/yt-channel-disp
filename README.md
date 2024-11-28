@@ -1,5 +1,5 @@
 ## Youtube channel videos display Wordpress plugin
-  Plugin will display the latest 10 videos uplodaed to the channel.
+  Plugin will display the latest 10 videos uploded to a youtube channel.
   
 ### How to use:
 - upload plugin folder.
